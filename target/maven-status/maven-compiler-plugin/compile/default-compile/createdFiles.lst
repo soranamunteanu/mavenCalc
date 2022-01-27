@@ -1,0 +1,13 @@
+cam\endava\calculator\expert\Expert.class
+cam\endava\jackson\JacksonExample.class
+cam\endava\calculator\expert\ExpertOperation.class
+cam\endava\google\GsonExample.class
+cam\endava\calculator\basic\Basic.class
+cam\endava\apache\DBConnection.class
+cam\endava\matchers\InLastFiveMinutes.class
+cam\endava\google\Payment.class
+cam\endava\apache\Log4jExample.class
+cam\endava\calculator\basic\BasicOperation.class
+cam\endava\apache\FileReadWithCommonsIO.class
+cam\endava\extensions\TestReporterExtension.class
+cam\endava\apache\StringWithLang3.class
