@@ -1356,3 +1356,37 @@ After Each
 17:31:45.063 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldUseFactorialWith1()
 17:31:45.063 [main] INFO  cam.endava.extensions.TestReporterExtension - 1.0
 17:31:45.063 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldUseFactorialWith1()
+17:10:08.322 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldUseFactorialWith1()
+17:10:08.329 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldUseFactorialWith1()
+17:10:25.847 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[1] 32, 1, 32
+17:10:25.870 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[1] 32, 1, 32
+17:10:25.880 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[2] 1, 32, 32
+17:10:25.881 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[2] 1, 32, 32
+17:10:25.883 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldMultiplyNegativeNumbers()
+17:10:25.886 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldMultiplyNegativeNumbers()
+17:10:25.887 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/Test that adds big number as: MAX INT
+17:10:25.890 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/Test that adds big number as: MAX INT
+17:10:25.891 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldAddNoOperands()
+17:10:25.892 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldAddNoOperands()
+17:10:25.896 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldAddMoreThanTwoOperands()
+17:10:25.897 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldAddMoreThanTwoOperands()
+17:10:25.898 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldUsePowWithNegativeNumbers()
+17:10:25.900 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldUsePowWithNegativeNumbers()
+17:10:25.902 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[1] 0, 2
+17:10:25.903 [main] INFO  cam.endava.extensions.TestReporterExtension - 2
+17:10:25.903 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[1] 0, 2
+17:10:25.904 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[2] 2, 0
+17:10:25.905 [main] INFO  cam.endava.extensions.TestReporterExtension - 2
+17:10:25.905 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[2] 2, 0
+17:10:25.924 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[1] 1, 2, 3, 6
+17:10:25.925 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[1] 1, 2, 3, 6
+17:10:25.926 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[2] 2, 4, 6, 12
+17:10:25.927 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[2] 2, 4, 6, 12
+17:10:25.986 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[3] 1, 2, 3, 6
+17:10:25.987 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[3] 1, 2, 3, 6
+17:10:25.988 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/[4] 2, 3, 4, 9
+17:10:25.989 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/[4] 2, 3, 4, 9
+17:10:25.990 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldAddNegativeNumbers()
+17:10:25.990 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+17:10:25.991 [main] INFO  cam.endava.extensions.TestReporterExtension - Starting test CalculatorTest/shouldUseFactorialWith1()
+17:10:25.991 [main] INFO  cam.endava.extensions.TestReporterExtension - Finishing test CalculatorTest/shouldUseFactorialWith1()

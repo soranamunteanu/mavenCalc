@@ -1,4 +1,18 @@
 -------------------------------------------------------------------------------
 Test set: com.endava.calculator.CalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.166 s - in com.endava.calculator.CalculatorTest
+Tests run: 15, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.186 s <<< FAILURE! - in com.endava.calculator.CalculatorTest
+com.endava.calculator.CalculatorTest.shouldAddNoOperands  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: null
+     but: was <0L>
+	at com.endava.calculator.CalculatorTest.shouldAddNoOperands(CalculatorTest.java:120)
+
+com.endava.calculator.CalculatorTest.shouldUsePowWithNegativeNumbers  Time elapsed: 0.003 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: null
+     but: was <0.1111111111>
+	at com.endava.calculator.CalculatorTest.shouldUsePowWithNegativeNumbers(CalculatorTest.java:167)
+

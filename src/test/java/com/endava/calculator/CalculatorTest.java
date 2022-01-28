@@ -109,7 +109,7 @@ public class CalculatorTest {
         Long result = basic.add(4, 5,6,8, 1);
 
         //THEN
-        LOGGER.info(result);
+        assertThat(result, notNullValue());
     }
     @Test
     public void shouldAddNoOperands(){
@@ -117,7 +117,7 @@ public class CalculatorTest {
         Long result = basic.add();
 
         //THEN
-        LOGGER.info(result);
+        assertThat(result, nullValue());
     }
 
     @ParameterizedTest //data driven testing (input, output)
@@ -137,7 +137,7 @@ public class CalculatorTest {
         Long result = basic.multiply(-3,-7);
 
         //THEN
-        LOGGER.info(result);
+        assertEquals(21L, result);
     }
 
     @ParameterizedTest
@@ -164,7 +164,7 @@ public class CalculatorTest {
         double result = expert.pow(3,-2);
 
         //THEN
-        LOGGER.info(result);
+        assertThat(result, nullValue());
     }
 
     @Test
@@ -173,7 +173,7 @@ public class CalculatorTest {
         double result = expert.factRec(1);
 
         //THEN
-        LOGGER.info(result);
+        assertEquals(1, result);
     }
 
 
